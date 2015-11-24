@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main()
-{
-  printf("Hello world \n");
+{	
+	printf("this is for git lab");
+	printf("Hello world \n");
 }
